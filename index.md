@@ -2,10 +2,10 @@
 ## Recommended to use AdBlocker before opening these links for safety.
 
 # Tools
-[jdownloader](https://jdownloader.org/jdownloader2)
-[Free Download Manager](https://www.freedownloadmanager.org)
-[uBlock Origin](https://ublockorigin.com)
-[TheBypasser](https://thebypasser.com/)
+- [jdownloader](https://jdownloader.org/jdownloader2)
+- [Free Download Manager](https://www.freedownloadmanager.org)
+- [uBlock Origin](https://ublockorigin.com)
+- [TheBypasser](https://thebypasser.com/)
 
 ## I will try to Add/Update these links.
 
