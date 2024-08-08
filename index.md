@@ -13,7 +13,7 @@
 - [Vimm's Lair](https://vimm.net) (best archived roms but slow)
 - [nswgame](https://nswgame.com) (recommended for all nintendo)
 - [dlxbgame](https://dlxbgame.com) (recommended for xbox 360 games)
-- [dlpsgame](https://dlpsgame.com) (recommended for ps3 games)
+- [dlpsgame](https://dlpsgame.com) (recommended for ps3, ps4, and ps5)
 - [cdromace](https://cdromance.org) (best for retro roms decent speed)
 - [skidrowreloaded](https://www.skidrowreloaded.com) (good pc torrent games)
 - [fitgirl repack](https://fitgirl-repacks.site) (best pc repacked games good speed)
