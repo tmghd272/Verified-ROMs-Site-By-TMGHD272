@@ -2,6 +2,8 @@
 ## Recommended to use AdBlocker before opening these links for safety.
 
 # Tools
+[jdownloader](https://jdownloader.org/jdownloader2)
+[Free Download Manager](https://www.freedownloadmanager.org)
 [uBlock Origin](https://ublockorigin.com)
 [TheBypasser](https://thebypasser.com/)
 
@@ -14,7 +16,7 @@
 - [dlpsgame](https://dlpsgame.com) (recommended for ps3 games)
 - [cdromace](https://cdromance.org) (best for retro roms decent speed)
 - [skidrowreloaded](https://www.skidrowreloaded.com) (good pc torrent games)
-- [fitgirl](https://fitgirl-repacks.site) (best pc repacked games good speed)
+- [fitgirl repack](https://fitgirl-repacks.site) (best pc repacked games good speed)
 - [steamunlocked](https://steamunlocked.net) (ultimate pc direct link games slow speed)
 - [archive.org](https://archive.org) (good for rare archived roms and etc)
 - [thepiratebay](https://thepiratebay.org) (good ol classic torrent downloader)
@@ -59,4 +61,4 @@
 - [Microsoft ROMs](https://r-roms.github.io/megathread/microsoft/)
 - [Sony ROMs](https://r-roms.github.io/megathread/sony/)
 
-YouTube: https://www.youtube.com/c/TMGHD272
+YouTube: [TMGHD272](https://www.youtube.com/c/TMGHD272)
