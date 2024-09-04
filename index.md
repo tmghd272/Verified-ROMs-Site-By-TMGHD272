@@ -20,8 +20,9 @@
 - [steamunlocked](https://steamunlocked.net) (ultimate pc direct link games slow speed)
 - [archive.org](https://archive.org) (good for rare archived roms and etc)
 - [thepiratebay](https://thepiratebay.org) (good ol classic torrent downloader)
-- [gamestorrent](https://www.gamestorrents.fm) (good torrent games all platforms)
-- [plugintorrent](https://plugintorrent.com) (software torrent for like Fruitloop or Adobe)
+- [gamestorrent](https://www.gamestorrents.fm) (good torrent games on all platforms)
+- [plugintorrent](https://plugintorrent.com) (software torrents for music like Fruitloop or Adobe)
+- [downloadpirate](https://www.downloadpirate.com) (another software torrent for editing software like Adobe)
 
 # [Archive.org](https://archive.org)
 - [Xbox HDD ready complete romset](https://archive.org/details/xbox_eng_romset)
